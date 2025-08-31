@@ -2,9 +2,6 @@
 
 A tiny, zero-dependency web app that reveals your **zodiac sign** and a **random daily-style horoscope** based on your date of birth. Built with plain **HTML + CSS + JavaScript** so you can run it anywhere.
 
-<p align="center">
-  <img src="images/screenshot.png" alt="Cosmic Chronicles preview" width="640"/>
-</p>
 
 <p align="center">
   <a href="https://shields.io/category/build">
